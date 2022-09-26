@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(#02aab0,#bdc3c7, #00cdac);
+}
+canvas{
+    margin-top: 150px;
+}
+#show_sketch{
+    float: right;
+    
+}
+#score{
+    float: left;
+    margin-right: 1220px;
+}
